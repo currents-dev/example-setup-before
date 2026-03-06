@@ -1,3 +1,15 @@
+# ⚠️ ARCHIVED REPOSITORY ⚠️
+
+> **This repository is now archived and read-only.**
+>
+> For the latest examples and updates, please visit our new repository:
+>
+> # [👉 https://github.com/currents-dev/currents-examples](https://github.com/currents-dev/currents-examples)
+
+---
+
+
+
 # Example: executing async tasks before each spec
 
 Executing an async task for each Cypress spec file
